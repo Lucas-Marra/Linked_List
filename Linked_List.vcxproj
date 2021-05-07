@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\linkedlist.cpp" />
-    <ClCompile Include="..\main.cpp" />
-    <ClCompile Include="..\node.cpp" />
+    <ClCompile Include="linkedlist.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="node.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\linkedlist.h" />
-    <ClInclude Include="..\node.h" />
+    <ClInclude Include="linkedlist.h" />
+    <ClInclude Include="node.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

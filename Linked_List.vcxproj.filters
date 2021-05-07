@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\linkedlist.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="..\main.cpp">
+    <ClCompile Include="node.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="..\node.cpp">
+    <ClCompile Include="linkedlist.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\linkedlist.h">
-      <Filter>Arquivos de Origem</Filter>
+    <ClInclude Include="linkedlist.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="..\node.h">
-      <Filter>Arquivos de Origem</Filter>
+    <ClInclude Include="node.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
