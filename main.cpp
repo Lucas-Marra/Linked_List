@@ -1,8 +1,8 @@
 /*
            -------------------- 
           | Simple Linked List |
-		   --------------------
-            IDE:	Microsoft® Visual Studio®
+           --------------------
+            IDE:	MicrosoftÂ® Visual StudioÂ®
         Version:	16.9.31105.61
   
       Developer:	Lucas Marra Rebello
